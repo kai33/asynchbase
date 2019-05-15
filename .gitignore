@@ -1,5 +1,4 @@
 build/
-pom.xml
 target/
 /bin/
 .idea
